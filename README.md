@@ -1,3 +1,7 @@
+# Chamber Crawler 3000
+A version of the interactive Chamber Crawler game, made solely with C++, playable on the Command Line.
+
+# How to Play
 Download the files to your computer. Using the command line change directory into the folder which holds all of this code. 
 
 Run command `make`.
