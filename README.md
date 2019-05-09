@@ -1,4 +1,4 @@
-# Chamber Crawler 3000
+# Chamber Crawler
 A version of the interactive Chamber Crawler game, made solely with C++, playable on the Command Line.
 
 # How to Play
